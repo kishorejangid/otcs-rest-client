@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OpenText Content Server Rest API Java Client
+Bundle-SymbolicName: org.apache.manifoldcf.otcs.rest;singleton:=true
